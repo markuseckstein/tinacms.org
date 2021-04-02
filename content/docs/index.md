@@ -1,7 +1,7 @@
 ---
-title: TinaCMS Documentation
+title: TinaCMS Documentation and help
 id: introduction
-last_edited: '2020-11-26T14:37:54.481Z'
+last_edited: '2021-04-02T17:36:43.598Z'
 ---
 Tina is a **toolkit for building visual editing** into your site. By creating a custom editing experience with Tina instead of opting for a conventional CMS, developers can give their teams a contextual, intuitive editing experience without sacrificing code quality.
 
@@ -61,3 +61,5 @@ Tina is designed to work with just about any React framework. Once you're comfor
 
 * [Next.js](/docs/integrations/nextjs)
 * [Gatsby](/docs/integrations/gatsby)
+
+an
